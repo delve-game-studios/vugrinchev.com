@@ -1,2 +1,0 @@
-# vugrinchev.com
-Some tests
